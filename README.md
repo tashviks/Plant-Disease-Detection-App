@@ -2,13 +2,12 @@
 
 ![Build](https://github.com/MohitGupta121/DiseaseDetection/workflows/Build/badge.svg?branch=main)
 [![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
-![Twitter Follow](https://img.shields.io/twitter/follow/Mohit_Gupta121?label=Follow&style=social)
 
 **Disease Detection** is a plant disease detecter ✅ Android application 📱 built using Tensorflow Lite, Kaggle and Teachable Machine.
 
 ***You can Install and test latest Disease Detection app from below 👇***
 
-[![Disease Detection](https://img.shields.io/badge/DiseaseDetection✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/MohitGupta121/DiseaseDetection/suites/6711576160/artifacts/255441035)
+[![Disease Detection](https://img.shields.io/badge/DiseaseDetection✅-APK-red.svg?style=for-the-badge&logo=android)]
 
 ## ⚙️ Features
 * Take the image from camera and get Plant Disease.
